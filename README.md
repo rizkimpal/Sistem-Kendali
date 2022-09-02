@@ -1,5 +1,6 @@
 # Sistem-Kendali
 
+<<<<<<< HEAD
 1. inisiasi 
 inisiasi terlebih dahulu library dan soal yang diberikan pada no 2 
 
